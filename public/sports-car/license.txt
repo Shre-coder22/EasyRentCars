@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sports Lite
+* source:	https://sketchfab.com/3d-models/sports-lite-e41dae7d6a0945788fa1a47b9bb3563c
+* author:	AbdulRahim (https://sketchfab.com/IshmalAdil)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sports Lite" (https://sketchfab.com/3d-models/sports-lite-e41dae7d6a0945788fa1a47b9bb3563c) by AbdulRahim (https://sketchfab.com/IshmalAdil) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
